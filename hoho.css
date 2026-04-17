@@ -1,0 +1,14 @@
+#nama {
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    font-family: monospace;
+}
+
+#list {
+    font-family: sans-serif;
+}
+
+body {
+    background: linear-gradient(to left, aquamarine, cyan);
+}

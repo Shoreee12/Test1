@@ -6,7 +6,11 @@
 }
 
 #list {
-    font-family: sans-serif;
+    font-family: monospace;
+}
+
+#isi {
+    font-family: monospace;
 }
 
 body {
